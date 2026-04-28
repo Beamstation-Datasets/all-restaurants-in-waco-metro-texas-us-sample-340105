@@ -1,6 +1,6 @@
 # All Restaurants in Waco (Metro), Texas, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `340105` |
 | Location | Waco, TX |
 | Category | Restaurants |
-| Full dataset size | 268 records |
-| Free sample size | 26 records (9.7%) |
-| Last export | 2026-04-21T11:05:05.409836+00:00 |
+| Full dataset size | 180 records |
+| Free sample size | 18 records (10.0%) |
+| Last export | 2026-04-28T11:34:13.227364+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-waco-metro-texas-us-sample-340105/releases/download/sample-latest/beamstation_340105_restaurants-us-wacotx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
