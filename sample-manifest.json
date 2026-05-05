@@ -1,12 +1,12 @@
 {
-  "export_job_id": "39a98c4e-e2ea-488a-9681-3689604e08bd",
+  "export_job_id": "35717d4f-b326-4025-9b26-adfb9fdc85db",
   "id_short": 340105,
-  "published_at": "2026-04-28T19:33:52Z",
+  "published_at": "2026-05-05T19:07:28Z",
   "repo_name": "all-restaurants-in-waco-metro-texas-us-sample-340105",
   "sample_asset_name": "beamstation_340105_restaurants-us-wacotx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/340105/beamstation_340105_restaurants-us-wacotx_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "734591a0a98e9aeb9bdc846f0a74baacde5da91c84c8d40c8e97b946e5701765",
-  "sample_size_bytes": 73831,
-  "total_records": 180
+  "sample_records": 30,
+  "sample_sha256": "a0bdd94d30e948b3e38fe117fc317b0dae941d1e70b92f66fddca8098f042cd6",
+  "sample_size_bytes": 120637,
+  "total_records": 309
 }
